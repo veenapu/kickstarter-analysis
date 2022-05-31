@@ -11,10 +11,11 @@ Using the Kickstarter dataset, analyze and visualize campaign outcomes based on 
 ### 	Analysis of Outcomes Based on Launch Date
 	Theater outcome by launch date analysis: Analyze the successful, failed and canceled theater outcomes and visualize the campaign outcomes – successful, failed, and canceled based on the launched date.  The steps I took to accomplish this:
 -	Added a new column ‘Years’ by extracting the year from the ‘date created conversion’ column using the YEAR().
-	
+![Analysis1a](https://github.com/veenapu/kickstarter-analysis/blob/main/Resources/Screenshots/Analysis%201a.png)	
 -	Inserted a pivot table with the ‘parent category’ and ‘Years’ as filters, Outcomes in the columns, Months in the rows and Count of Outcomes in the Value field.
 -	Then filtered the parent category to Theater
 -	Changed the row labels to display Months
+-	
 -	Then inserted a pivot chart to display a line chart for each of the outcomes based on launch date, which is by month
 -	Copied the chart to Paint and saved it as a .PNG file
 
