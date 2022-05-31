@@ -28,7 +28,7 @@ Using the Kickstarter dataset, analyze and visualize campaign outcomes based on 
 ![Analysis2b](https://github.com/veenapu/kickstarter-analysis/blob/main/Resources/Screenshots/Analysis%202b.png)
 -	Then inserted a line chart to display the outcomes based on the goals
 -	Copied the chart to Paint and saved it as a .PNG file
-
+![Analysis2c](https://github.com/veenapu/kickstarter-analysis/blob/main/Resources/Screenshots/Analysis%202c.png)
 ###	Challenges and difficulaties Encountered
 	I did not face any challenges for the Theater Outcomes by Launch Date. 
 
