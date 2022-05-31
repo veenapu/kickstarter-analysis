@@ -25,6 +25,7 @@ Using the Kickstarter dataset, analyze and visualize campaign outcomes based on 
 -	Then used the SUM() to sum total of these outcomes in the Total Projects column
 -	Then three other columns to calculate the percentages of each of the outcomes for various dollar amount ranges
 ![Analysis2a](https://github.com/veenapu/kickstarter-analysis/blob/main/Resources/Screenshots/Analysis%202a.png)
+![Analysis2b](https://github.com/veenapu/kickstarter-analysis/blob/main/Resources/Screenshots/Analysis%202b.png)
 -	Then inserted a line chart to display the outcomes based on the goals
 -	Copied the chart to Paint and saved it as a .PNG file
 
