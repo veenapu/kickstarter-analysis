@@ -18,7 +18,7 @@ Using the Kickstarter dataset, analyze and visualize campaign outcomes based on 
 ![Analysis1b](https://github.com/veenapu/kickstarter-analysis/blob/main/Resources/Screenshots/Analysis%201b.png)	
 -	Then inserted a pivot chart to display a line chart for each of the outcomes based on launch date, which is by month
 -	Copied the chart to Paint and saved it as a .PNG file
-
+![Analysis1c](https://github.com/veenapu/kickstarter-analysis/blob/main/Resources/Screenshots/Analysis%201c.png)
 ###	Analysis of Outcomes Based on Goals	
 	Outcomes based on Goals analysis: Analyze the percentage of successful, failed and canceled plays and visualize these outcomes based on goal amounts. The steps I took to accomplish this:
 -	Created different columns to show the different outcomes for 12 different goal ranges.  Then used COUNTIFS() for counting each of the outcomes for those dollar amount changes by filtering on the Kickstarter "outcome" column, on the "goal" amount column using the ranges created in Step 3, and on the "Subcategory" column using "plays" as the criteria.
