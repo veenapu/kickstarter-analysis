@@ -15,7 +15,7 @@ Using the Kickstarter dataset, analyze and visualize campaign outcomes based on 
 -	Inserted a pivot table with the ‘parent category’ and ‘Years’ as filters, Outcomes in the columns, Months in the rows and Count of Outcomes in the Value field.
 -	Then filtered the parent category to Theater
 -	Changed the row labels to display Months
--	
+![Analysis1b](https://github.com/veenapu/kickstarter-analysis/blob/main/Resources/Screenshots/Analysis%201b.png)	
 -	Then inserted a pivot chart to display a line chart for each of the outcomes based on launch date, which is by month
 -	Copied the chart to Paint and saved it as a .PNG file
 
